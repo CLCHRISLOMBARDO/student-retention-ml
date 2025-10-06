@@ -1,0 +1,5 @@
+# PATH
+LOGS_PATH="logs/"
+INPUT_DATA_PATH = "data/"
+OUTPUT_PATH = "outputs/"
+OUTPUT_MODELS_PATH = OUTPUT_PATH + "models/"
